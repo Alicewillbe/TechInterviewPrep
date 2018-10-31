@@ -1,7 +1,7 @@
 # Quick Comparasion: java v.s. C
 ## Summary
-content \ lang | java | C
----------------|------|---
+content \ language | java | C
+-------------------|------|---
 generally speaking, _ is faster | | *
 generally speaking, _ is safer | * |
 

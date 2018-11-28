@@ -1,0 +1,22 @@
+TCAT
+	User center design
+	uwtcat@uw.edu
+Reinforcement Learning
+	AI
+	Atari
+	object-level paradigm
+	wagnew3@cs.washington.edu
+ICTD
+	Open Data Kit
+	ODK deployment
+XLAB
+	NLP
+	understand beyond surface level of text
+	machine learning
+UbiComp
+Theory Lab
+	mechenism design to avoid sit like 2012 match
+	#both team trying to lose#
+Make4All Projects
+Reality Lab
+	reality capstone in spring

@@ -20,3 +20,6 @@ Theory Lab
 Make4All Projects
 Reality Lab
 	reality capstone in spring
+Next Manufacturing Solution
+	Design for Manufacturing
+	bit.ly/fabResearch
